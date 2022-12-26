@@ -1,0 +1,14 @@
+{
+  "name": "primer_ejercicio",
+  "version": "1.0.0",
+  "description": "primer ejercicio de node en open bootcamp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "\"primerejercicio\""
+  ],
+  "author": "Candia Sonia",
+  "license": "ISC"
+}
